@@ -1,0 +1,24 @@
+table {
+    border: 1px solid black;
+    width: 700px;
+    margin: 0 auto;
+}
+
+td {
+    border: 1px solid black;
+    height: 30px;
+}
+
+#buttons {
+    margin: 20px auto;
+    text-align: center;
+}
+button {
+    width: 50px;
+    height: 20px;
+}
+
+h1,
+h4 {
+    text-align: center;
+}
